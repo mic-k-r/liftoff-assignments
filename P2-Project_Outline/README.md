@@ -7,12 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A grocery list generator. The application displays a variety of recipes, and the user can select which recipes to "add to grocery list". The application then generates a list of ingredients to shop for at the grocery store.
 ### Features
-Include Features here
+1. Add recipe button -> add recipes user selects to a list or cart.
+2. Generate grocery list -> tallies up aggregate ingredients needed for all recipes selected.
+3. Favorite recipes -> user has ability to pin or star go-to recipes.
+4. Abstract classes and interfaces implementation -> DRY and organizational ethos for back end code.
 ### Technologies
-Include Technologies here
+Java, Angular/TypeScript, Tailwind CSS 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Tailwind CSS and refresh Angular
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/QX0x4v1p/grocery-list-generator
